@@ -1,1 +1,2 @@
 # AboutMe
+My name is Alejandro Benavides. I am a student at The University of Texas at Rio Grande Valley. I am a giant tcg fan and hope to work in the gaming industry.
