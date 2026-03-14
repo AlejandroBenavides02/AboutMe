@@ -3,3 +3,8 @@ My name is Alejandro Benavides. I am a student at The University of Texas at Rio
 
 # Contact
 alejandrobenavides02@gmail.com
+
+#Programming Languages
+C++
+Python
+C#
